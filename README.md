@@ -1,12 +1,11 @@
 
-# Calculadora Web
+# Cálculo de IMC
 
-Calculadora que funciona a base de funções em JavaScript. Foi usado grid no CSS para alinhar os botões e media queries para deixar a aplicação responsiva.
-
+Este projeto tem por finalidade calcular o IMC do usuário, onde ele informa seu peso em quilos e sua altura em metros. Dessa maneira é descoberto seu índice de massa corporal baseado na tabela apresentada.
 
 ## Demonstração
 
-https://ronnygst.github.io/web-calculator/
+https://ronnygst.github.io/web-imc/
 
 
 
